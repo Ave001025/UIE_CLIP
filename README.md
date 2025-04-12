@@ -1,8 +1,8 @@
-# Unveiling the underwaterworld:CLIPperceptionmodel-guidedunderwaterimageenhancement
+# Unveiling the underwater world:CLIP perception model-guided underwater image enhancement
 
 This repository contains the official implementation of the following paper:
-> **Underwater Ranker: Learn Which Is Better and How to Be Better**<br>
-> Chunle Guo<sup>#</sup>, Ruiqi Wu<sup>#</sup>, Xin Jin, Linghao Han, Zhi Chai, Weidong Zhang, Chongyi Li<sup>*</sup><br>
+> **Unveiling the underwater world:CLIP perception model-guided underwater image enhancement**<br>
+> Jiangzhong Cao<sup>#</sup>,Zekai Zeng<sup>#</sup>, Xu Zhang, Huan Zhang, Chunling Fan, Gangyi Jiang,  Weisi Lin<sup>*</sup><br>
 > Proceedings of the AAAI conference on artificial intelligence (AAAI), 2023<br>
 
 
