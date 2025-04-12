@@ -11,24 +11,22 @@ This repository contains the official implementation of the following paper:
 Run the following commands for training:
 
 ```bash
-python ranker_main_train.py --opt_path options/URanker.yaml
-python uie_main_train.py --opt_path options.NU2Net.yaml
+CUDA_VISIBLE_DEVICES=2 python uie_main_train.py --opt_path options/NU2Net.yaml
 ```
 
 Run the following commands for evaluation:
 ```bash
-python ranker_main_test.py --opt_path options/URanker.yaml --test_ckpt_path checkpoints/URanker_ckpt.pth
-python uie_main_test.py --opt_path options.NU2Net.yaml --test_ckpt_path checkpoints/NU2Net_ckpt.pth --save_image
+python uie_main_test.py --opt_path options/NU2Net.yaml --test_ckpt_path "./uie_output/best_checkpoint.pth" --save_image
 ```
 
 ## Citation
 If you find our repo useful for your research, please cite us:
 ```
 @inproceedings{guo2023uranker,
-  title={Underwater Ranker: Learn Which Is Better and How to Be Better},
-  author={Guo, Chunle and Wu, Ruiqi and Jin, Xin and Han, Linghao and Chai, Zhi and Zhang, Weidong and Li, Chongyi},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2023}
+  title={Unveiling the underwater world:CLIP perception model-guided underwater image enhancement},
+  author={Jiangzhong Cao,Zekai Zeng,Xu Zhang,Huan Zhang,Chunling Fan,Gangyi Jiang,Weisi Lin},
+  booktitle={Pattern Recognition},
+  year={2025}
 }
 ```
 
