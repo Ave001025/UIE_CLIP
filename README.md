@@ -3,7 +3,7 @@
 This repository contains the official implementation of the following paper:
 > **Unveiling the underwater world:CLIP perception model-guided underwater image enhancement**<br>
 > Jiangzhong Cao<sup>#</sup>,Zekai Zeng<sup>#</sup>, Xu Zhang, Huan Zhang, Chunling Fan, Gangyi Jiang,  Weisi Lin<sup>*</sup><br>
-> Proceedings of the AAAI conference on artificial intelligence (AAAI), 2023<br>
+> *Pattern Recognition*, 2025<br>
 
 
 ### Training & Evaluation
