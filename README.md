@@ -5,6 +5,18 @@ This repository contains the official implementation of the following paper:
 > Jiangzhong Cao<sup>#</sup>,Zekai Zeng<sup>#</sup>, Xu Zhang, Huan Zhang, Chunling Fan, Gangyi Jiang,  Weisi Lin<sup>*</sup><br>
 > *Pattern Recognition*, 2025<br>
 
+## Dependencies and Installation
+1. Clone Repo
+    ```bash
+    git clone https://github.com/Ave001025/UIE_CLIP.git
+    cd UIE_CLIP
+    ```
+
+2. Create Conda Enviroment
+    ```bash
+    conda env create -f environment.yaml
+    conda activate UIE_CLIP
+    ```
 
 ### Training & Evaluation
 
@@ -22,7 +34,7 @@ python uie_main_test.py --opt_path options/NU2Net.yaml --test_ckpt_path "./uie_o
 ## Citation
 If you find our repo useful for your research, please cite us:
 ```
-@inproceedings{guo2023uranker,
+@inproceedings{zeng2025UIE,
   title={Unveiling the underwater world:CLIP perception model-guided underwater image enhancement},
   author={Jiangzhong Cao,Zekai Zeng,Xu Zhang,Huan Zhang,Chunling Fan,Gangyi Jiang,Weisi Lin},
   booktitle={Pattern Recognition},
