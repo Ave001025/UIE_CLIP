@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the following paper:
 > **Unveiling the underwater world:CLIP perception model-guided underwater image enhancement**<br>
-> Jiangzhong Cao<sup>#</sup>,Zekai Zeng<sup>#</sup>, Xu Zhang, Huan Zhang, Chunling Fan, Gangyi Jiang,  Weisi Lin<sup>*</sup><br>
+> Jiangzhong Cao<sup></sup>,Zekai Zeng<sup></sup>, Xu Zhang, Huan Zhang*, Chunling Fan, Gangyi Jiang,  Weisi Lin<sup></sup><br>
 > *Pattern Recognition*, 2025<br>
 
 ## Dependencies and Installation
