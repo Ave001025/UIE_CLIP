@@ -30,6 +30,12 @@ Run the following commands for evaluation:
 ```bash
 python uie_main_test.py --opt_path options/NU2Net.yaml --test_ckpt_path "./uie_output/best_checkpoint.pth" --save_image
 ```
+### Pretrained Weights
+You can download the pretrained model weights from Baidu Netdisk:
+```bash
+🔗 Link: https://pan.baidu.com/s/17wY6zAmsa_k3BcjErq78LQ?pwd=t5a2
+🔑 Extraction Code: t5a2
+```
 
 ## Citation
 If you find our repo useful for your research, please cite us:
