@@ -33,8 +33,8 @@ python uie_main_test.py --opt_path options/NU2Net.yaml --test_ckpt_path "./uie_o
 ### Pretrained Weights
 You can download the pretrained model weights from Baidu Netdisk:
 ```bash
-🔗 Link: https://pan.baidu.com/s/17wY6zAmsa_k3BcjErq78LQ?pwd=t5a2
-🔑 Extraction Code: t5a2
+🔗 Link: https://pan.baidu.com/s/1Z7BMPT0XmKknYXKJrpTLng?pwd=jhrq
+🔑 Extraction Code: jhrq
 ```
 
 ## Citation
